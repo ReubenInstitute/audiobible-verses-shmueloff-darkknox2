@@ -1,8 +1,8 @@
-# audiobible-shmueloff-darkknox2
+# audiobible-verses-shmueloff-darkknox2
 
 Per-verse Hebrew reading in the DarkKnox2 voice, cloned from
-audiobible-shmueloff-source.
+audiobible-source-shmueloff.
 
 ## License
 
-- `audiobible-shmueloff-darkknox2` — no license claimed.
+- `audiobible-verses-shmueloff-darkknox2` — no license claimed.
